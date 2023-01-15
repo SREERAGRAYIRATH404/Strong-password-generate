@@ -18,4 +18,4 @@ import string
 Asking length of password from user
 Password includes digits,alphabets (small and capital letters),strings,punctuation
 Generate an random password using libraries.
-Then output of the password as per the users demand.
+Then output of the generated strong password accordingly.
