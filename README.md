@@ -8,6 +8,8 @@ tkinter library is used to create the GUI .The random and string libraries to ge
 Prerequisites
 Have python and tkinter installed on your system
 
+pip install tk
+
 How code works:-
 
 
